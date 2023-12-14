@@ -9,8 +9,8 @@ Welcome to the Python Expense Tracker project, a simple yet effective tool for m
 - **Summarized Reports:** Generate insightful summaries of your expenses, either viewing all transactions or breaking them down on a monthly basis.
 
 ## How to Use
-1. **Clone the Repository:**
-2. **Run the Applitcation:**
+1. **Clone the Repository:** 'git clone https://github.com/ShraqueOatMeal/Python-Expenses-Tracker.git'
+2. **Run the Applitcation:** python Expense_Tracker.py
 3. **Follow On-Screen Instructions:** The application will guide you through entering expenses and viewing summarized reports.
 
 ## Technologies Used
